@@ -1,0 +1,33 @@
+
+
+div{
+  background-color: #041591;
+  border-radius: 5px;
+  padding-bottom: 1rem;
+}
+
+h1{
+  color: white;
+  text-align: center;
+}
+
+li{
+  background-color: white;
+  border-radius: 5px;
+  width: 50%;
+  margin: 1rem auto;
+  padding: 1.3rem;
+  border: 1px solid black;
+  text-align: center;
+}
+
+li:hover{
+  background-color: rgb(236, 206, 177);
+  font-weight: bold;
+  cursor: pointer;
+}
+
+ul{
+  padding: 0;
+  list-style-type: none;
+}

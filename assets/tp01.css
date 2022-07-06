@@ -17,6 +17,10 @@ thead tr{
   color: white;
 }
 
+tbody tr:nth-child(even){
+  background-color: gray;
+}
+
 td:nth-child(2), td:nth-child(3){
   text-align: right;
 }
