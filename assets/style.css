@@ -1,0 +1,35 @@
+
+
+header ul{
+  display:flex;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color:#ffa38c;
+}
+
+header li {
+  margin-left: 20px;
+}
+
+tr:nth-child(even){
+  background-color: aliceblue;
+  color: black;
+}
+
+.sombre {
+  background-color: rgb(20, 45, 45);
+  color: white;
+}
+
+#listes{
+  display: flex;
+}
+
+#listes div{
+  width: 50%;
+}
